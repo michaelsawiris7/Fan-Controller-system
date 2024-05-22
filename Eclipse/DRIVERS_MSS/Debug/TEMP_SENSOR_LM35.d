@@ -1,0 +1,15 @@
+TEMP_SENSOR_LM35.o TEMP_SENSOR_LM35.o: ../TEMP_SENSOR_LM35.c \
+  ../TEMP_SENSOR_LM35.h ../GPIO2.h ../STANDS.h ../MACROS.h ../STANDs.h \
+  ../ADC.h
+
+../TEMP_SENSOR_LM35.h:
+
+../GPIO2.h:
+
+../STANDS.h:
+
+../MACROS.h:
+
+../STANDs.h:
+
+../ADC.h:
